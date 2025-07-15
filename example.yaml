@@ -1,15 +1,21 @@
-name: "example"
-repository: "https://github.com/TheSethRose/Awesome-Context"
-local_path: "example"
-description: "Example tech stack for demonstrating semantic search functionality"
+# Example configuration file for Awesome Context
+# This template shows how to configure a technology stack for context extraction
+
+# Required fields
 active: true
-update_interval: "weekly"
+repo_url: https://github.com/owner/repository.git
 paths:
-  - "authentication/"
-  - "database/"
-  - "frontend/"
-  - "backend/"
-  - "deployment/"
-  - "testing/"
-  - "performance/"
-  - "security/"
+  - docs
+  - examples
+  - tutorials
+
+# Optional fields
+update_interval_days: 7          # How often to update (default is 7)
+
+# Example with a real technology (Next.js)
+# active: true
+# update_interval_days: 7
+# repo_url: https://github.com/vercel/next.js.git
+# paths:
+#   - docs
+#   - examples
