@@ -1,0 +1,7 @@
+active: true
+update_interval_days: 7
+repo_url: https://github.com/kubernetes/examples.git
+paths:
+- guestbook
+- staging
+- cassandra

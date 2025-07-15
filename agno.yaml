@@ -1,0 +1,4 @@
+active: true
+update_interval_days: 3
+repo_url: https://github.com/agno-agi/agno.git
+paths: []

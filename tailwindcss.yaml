@@ -1,0 +1,6 @@
+active: true
+update_interval_days: 7
+repo_url: https://github.com/tailwindlabs/tailwindcss.git
+paths:
+- packages
+- playgrounds

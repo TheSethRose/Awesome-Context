@@ -1,0 +1,6 @@
+active: true
+update_interval_days: 30
+repo_url: https://github.com/microsoft/vcpkg.git
+paths:
+- docs
+- scripts

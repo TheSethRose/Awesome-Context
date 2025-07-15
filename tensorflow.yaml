@@ -1,0 +1,6 @@
+active: true
+update_interval_days: 7
+repo_url: https://github.com/tensorflow/models.git
+paths:
+- official
+- research

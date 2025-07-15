@@ -1,0 +1,10 @@
+active: true
+update_interval_days: 7
+repo_url: https://github.com/moby/moby.git
+paths:
+- docs
+- daemon
+- api
+- container
+- integration
+- hack

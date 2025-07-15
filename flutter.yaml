@@ -1,0 +1,7 @@
+active: true
+update_interval_days: 7
+repo_url: https://github.com/flutter/samples.git
+paths:
+- experimental
+- web
+- platform_channels

@@ -1,0 +1,5 @@
+active: true
+update_interval_days: 30
+repo_url: https://github.com/wch/r-source.git
+paths:
+- doc
