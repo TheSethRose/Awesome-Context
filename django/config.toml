@@ -1,0 +1,12 @@
+[tech_stack]
+name = "Django"
+
+[[sources]]
+type = "github_folder"
+repo = "django/django"
+path = "docs"
+
+[[sources]]
+type = "github_folder"
+repo = "django/django"
+path = "tests"

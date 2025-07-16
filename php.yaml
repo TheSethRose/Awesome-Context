@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 30
-repo_url: https://github.com/php/php-src.git
-paths:
-- docs

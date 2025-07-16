@@ -1,0 +1,7 @@
+[tech_stack]
+name = "Agno"
+
+[[sources]]
+type = "github_folder"
+repo = "agno-agi/agno"
+path = ""

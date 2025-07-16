@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 14
-repo_url: https://github.com/spring-projects/spring-boot.git
-paths:
-- spring-boot-project/spring-boot-samples

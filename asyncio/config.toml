@@ -1,0 +1,7 @@
+[tech_stack]
+name = "Asyncio"
+
+[[sources]]
+type = "github_folder"
+repo = "python/cpython"
+path = "Lib/asyncio"

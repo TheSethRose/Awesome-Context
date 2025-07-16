@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 14
-repo_url: https://github.com/rust-lang/rust-by-example.git
-paths:
-- src

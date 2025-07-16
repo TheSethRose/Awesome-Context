@@ -1,0 +1,7 @@
+[tech_stack]
+name = "Angular"
+
+[[sources]]
+type = "github_folder"
+repo = "angular/angular"
+path = "aio/content/examples"

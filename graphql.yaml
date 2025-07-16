@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 7
-repo_url: https://github.com/graphql/graphql-js.git
-paths:
-- src/__tests__

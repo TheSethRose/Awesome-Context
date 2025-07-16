@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 7
-repo_url: https://github.com/angular/angular.git
-paths:
-- aio/content/examples

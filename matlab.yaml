@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 30
-repo_url: https://github.com/mathworks/matlab-examples.git
-paths:
-- .

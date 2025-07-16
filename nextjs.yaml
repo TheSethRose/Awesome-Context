@@ -1,6 +1,0 @@
-active: true
-update_interval_days: 7
-repo_url: https://github.com/vercel/next.js.git
-paths:
-- docs
-- examples

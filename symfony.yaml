@@ -1,5 +1,0 @@
-active: true
-update_interval_days: 14
-repo_url: https://github.com/symfony/symfony-docs.git
-paths:
-- .

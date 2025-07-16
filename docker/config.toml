@@ -1,0 +1,27 @@
+[tech_stack]
+name = "Docker"
+
+[[sources]]
+type = "github_folder"
+repo = "docker/labs"
+path = "beginner"
+
+[[sources]]
+type = "github_folder"
+repo = "docker/labs"
+path = "advanced"
+
+[[sources]]
+type = "github_folder"
+repo = "docker/labs"
+path = "networking"
+
+[[sources]]
+type = "github_folder"
+repo = "docker/labs"
+path = "security"
+
+[[sources]]
+type = "github_folder"
+repo = "docker/labs"
+path = "developer-tools"
